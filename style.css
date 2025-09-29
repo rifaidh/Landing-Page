@@ -125,7 +125,7 @@
       background: linear-gradient(135deg, #00c6ff, #7b2ff7);
       max-width: 1500px;
     }
-    .kontak h3, ,kontak p {
+    .kontak h3, .kontak p {
       color: white;
     }
     .kontak a {
@@ -153,6 +153,7 @@
         font-size: 16px;
       }
     }
+
 
 
 
