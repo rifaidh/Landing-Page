@@ -121,6 +121,13 @@
       border-radius: 10px;
       box-shadow: 0 2px 6px rgba(0,0,0,0.2);
     }
+
+    .kontak{
+        background: aqua;
+        max-width: 1500px;    
+
+    } 
+
     .kontak a {
       display: inline-block;
       background: #25d366;
